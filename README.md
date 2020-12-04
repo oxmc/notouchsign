@@ -8,15 +8,25 @@ This allows users to interact without touching a pen or pencil which might cause
 IMPORTANT:
 you are not permitted to interact with this code or installation without help from the creator of this program, Seth Olivarez.
 # Server
+
+Linux:
 ```wget -O - https://raw.githubusercontent.com/oxmc/notouchsign/main/installserver.sh | bash```
 # Client
-application version
+Application version
+
 Linux:
 ```wget -O - https://raw.githubusercontent.com/oxmc/notouchsign/main/installclientapp.sh | bash```
+
 Windows:
-<a href="https://oxmc.github.io/files/">COVID-19</a>.
+<a href="https://oxmc.github.io/files/apps/windows/nts/nts.exe">app controll</a>.
+
 browser version
+
+Linux:
 ```wget -O - https://raw.githubusercontent.com/oxmc/notouchsign/main/installclientbrowser.sh | bash```
+
+Windows:
+<a href="https://oxmc.github.io/files/apps/windows/nts/ntsb.exe">browser controll</a>.
 # NetworkStorage
 ```wget -O - https://raw.githubusercontent.com/oxmc/notouchsign/main/installstoragenetwork.sh | bash```
 
